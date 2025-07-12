@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+youtube-transcript-api
+requests
+beautifulsoup4
+tqdm
